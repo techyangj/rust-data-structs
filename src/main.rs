@@ -4,6 +4,7 @@ mod myenum;
 mod myiterator;
 mod myloop;
 mod myresult;
+mod mysort;
 mod mystruct;
 
 fn main() {
